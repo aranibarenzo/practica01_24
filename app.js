@@ -4,3 +4,4 @@ nro3=5;
 nror=Nro+nro3;
 console.log('el resultado es '+nror);
 
+console.log('que paso');
